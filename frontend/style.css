@@ -1,0 +1,38 @@
+body {
+    background-color: #1c1c1c;
+    color: white;
+    font-family: Arial;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  .container {
+    text-align: center;
+    background: #2c2c2c;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #00ffcc;
+  }
+  textarea {
+    width: 300px;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #00ffcc;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  #result {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
